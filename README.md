@@ -33,7 +33,3 @@ Plots of the original vs synthesized audio demonstrate intelligibility and the L
 ## 🔧 Requirements
 
 Requires MATLAB. Audio toolbox recommended.
-
-## 📝 License
-
-MIT License (you can change this to another if you prefer).
